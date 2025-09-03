@@ -1,0 +1,223 @@
+{
+
+    "islamicHistory": [
+        {
+            "question": "Who was the first Caliph after Prophet Muhammad (PBUH)?",
+            "options": ["Abu Bakr Al-Siddiq", "Umar ibn Al-Khattab", "Uthman ibn Affan", "Ali ibn Abi Talib"],
+            "correctAnswer": "Abu Bakr Al-Siddiq"
+          },
+          {
+            "question": "In which year did the Battle of Badr take place?",
+            "options": ["624 CE", "622 CE", "630 CE", "632 CE"],
+            "correctAnswer": "624 CE"
+          },
+          {
+            "question": "What was the name of the treaty between Muslims and Quraysh in 628 CE?",
+            "options": ["Treaty of Hudaybiyyah", "Treaty of Badr", "Treaty of Uhud", "Treaty of Mecca"],
+            "correctAnswer": "Treaty of Hudaybiyyah"
+          },
+          {
+            "question": "Who was the Prophet Muhammad's first wife?",
+            "options": ["Aisha", "Khadijah", "Hafsa", "Zaynab"],
+            "correctAnswer": "Khadijah"
+          },
+          {
+            "question": "Which city was the first capital of the Islamic Caliphate?",
+            "options": ["Medina", "Mecca", "Damascus", "Baghdad"],
+            "correctAnswer": "Medina"
+          },
+          {
+            "question": "Who was the fourth Caliph of Islam?",
+            "options": ["Ali ibn Abi Talib", "Uthman ibn Affan", "Muawiya", "Omar ibn Al-Khattab"],
+            "correctAnswer": "Ali ibn Abi Talib"
+          },
+          {
+            "question": "When did the Hijra (migration) to Medina take place?",
+            "options": ["622 CE", "624 CE", "630 CE", "610 CE"],
+            "correctAnswer": "622 CE"
+          },
+          {
+            "question": "Who was known as the 'Sword of Allah'?",
+            "options": ["Khalid ibn Al-Walid", "Hamza ibn Abdul-Muttalib", "Ali ibn Abi Talib", "Abu Ubaidah"],
+            "correctAnswer": "Khalid ibn Al-Walid"
+          },
+          {
+            "question": "Which battle is known as the 'Battle of the Trench'?",
+            "options": ["Battle of Khandaq", "Battle of Badr", "Battle of Uhud", "Battle of Hunayn"],
+            "correctAnswer": "Battle of Khandaq"
+          },
+          {
+            "question": "What year did the Prophet Muhammad (PBUH) pass away?",
+            "options": ["632 CE", "624 CE", "630 CE", "634 CE"],
+            "correctAnswer": "632 CE"
+          }
+    ], 
+
+    "science": [
+        {
+            "question": "What is the chemical symbol for water?",
+            "options": ["H2O", "O2", "CO2", "HO"],
+            "correctAnswer": "H2O"
+          },
+          {
+            "question": "Which planet is known as the Red Planet?",
+            "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+            "correctAnswer": "Mars"
+          },
+          {
+            "question": "What is the speed of light in vacuum?",
+            "options": ["300,000 km/s", "150,000 km/s", "1,000 km/s", "500,000 km/s"],
+            "correctAnswer": "300,000 km/s"
+          },
+          {
+            "question": "What is the largest organ in the human body?",
+            "options": ["Skin", "Heart", "Liver", "Brain"],
+            "correctAnswer": "Skin"
+          },
+          {
+            "question": "What gas do plants absorb during photosynthesis?",
+            "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+            "correctAnswer": "Carbon Dioxide"
+          },
+          {
+            "question": "Which blood cells help fight infection?",
+            "options": ["White blood cells", "Red blood cells", "Platelets", "Plasma"],
+            "correctAnswer": "White blood cells"
+          },
+          {
+            "question": "What is the main gas found in the Earth's atmosphere?",
+            "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Argon"],
+            "correctAnswer": "Nitrogen"
+          },
+          {
+            "question": "What is the chemical symbol for gold?",
+            "options": ["Au", "Ag", "Gd", "Go"],
+            "correctAnswer": "Au"
+          },
+          {
+            "question": "What is the center of an atom called?",
+            "options": ["Nucleus", "Proton", "Electron", "Neutron"],
+            "correctAnswer": "Nucleus"
+          },
+          {
+            "question": "Which part of the plant conducts photosynthesis?",
+            "options": ["Leaves", "Roots", "Stem", "Flower"],
+            "correctAnswer": "Leaves"
+          }
+    ], 
+
+    "programming": [
+        {
+            "question": "Which language is primarily used for web page styling?",
+            "options": ["CSS", "HTML", "JavaScript", "Python"],
+            "correctAnswer": "CSS"
+          },
+          {
+            "question": "What does HTML stand for?",
+            "options": ["HyperText Markup Language", "Hyper Transfer Markup Language", "HighText Machine Language", "Hyperlink and Text Markup Language"],
+            "correctAnswer": "HyperText Markup Language"
+          },
+          {
+            "question": "Which programming language is known as the 'mother of all languages'?",
+            "options": ["C", "Java", "Python", "Assembly"],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Which of the following is a backend programming language?",
+            "options": ["PHP", "CSS", "HTML", "XML"],
+            "correctAnswer": "PHP"
+          },
+          {
+            "question": "Which company developed Java?",
+            "options": ["Sun Microsystems", "Microsoft", "Oracle", "IBM"],
+            "correctAnswer": "Sun Microsystems"
+          },
+          {
+            "question": "Which language is most commonly used for data science?",
+            "options": ["Python", "C++", "Java", "Ruby"],
+            "correctAnswer": "Python"
+          },
+          {
+            "question": "What does '===' in JavaScript check?",
+            "options": ["Value and type", "Only value", "Only type", "None of these"],
+            "correctAnswer": "Value and type"
+          },
+          {
+            "question": "Which language is primarily used for iOS app development?",
+            "options": ["Swift", "Kotlin", "Java", "C#"],
+            "correctAnswer": "Swift"
+          },
+          {
+            "question": "Which of these is a compiled language?",
+            "options": ["C++", "Python", "JavaScript", "PHP"],
+            "correctAnswer": "C++"
+          },
+          {
+            "question": "Which symbol is used for comments in Python?",
+            "options": ["#", "//", "/* */", "<!-- -->"],
+            "correctAnswer": "#"
+          }
+    ], 
+
+    "math": [
+        {
+            "question": "What is the value of π (pi) approximately?",
+            "options": ["3.14", "2.71", "1.61", "3.41"],
+            "correctAnswer": "3.14"
+          },
+          {
+            "question": "What is 12 × 8?",
+            "options": ["96", "88", "108", "86"],
+            "correctAnswer": "96"
+          },
+          {
+            "question": "What is the square root of 81?",
+            "options": ["9", "8", "7", "6"],
+            "correctAnswer": "9"
+          },
+          {
+            "question": "Solve: 15 ÷ 3 + 4",
+            "options": ["9", "8", "7", "10"],
+            "correctAnswer": "9"
+          },
+          {
+            "question": "What is 7 squared?",
+            "options": ["49", "14", "42", "21"],
+            "correctAnswer": "49"
+          },
+          {
+            "question": "What is the next prime number after 7?",
+            "options": ["11", "9", "10", "13"],
+            "correctAnswer": "11"
+          },
+          {
+            "question": "What is 25% of 200?",
+            "options": ["50", "40", "25", "60"],
+            "correctAnswer": "50"
+          },
+          {
+            "question": "What is 0 divided by any number (except 0)?",
+            "options": ["0", "Undefined", "Infinity", "1"],
+            "correctAnswer": "0"
+          },
+          {
+            "question": "What is the perimeter of a square with side 5 cm?",
+            "options": ["20 cm", "25 cm", "15 cm", "10 cm"],
+            "correctAnswer": "20 cm"
+          },
+          {
+            "question": "What is the formula for the area of a circle?",
+            "options": ["πr²", "2πr", "r²", "πd"],
+            "correctAnswer": "πr²"
+          }
+    ]
+}
+
+
+
+
+
+
+
+
+
